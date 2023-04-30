@@ -3,13 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-<<<<<<< Updated upstream
-    "dev": "nodemon --exec ts-node index.ts",
-    "start": "node index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "start": "node app.js"
->>>>>>> Stashed changes
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
